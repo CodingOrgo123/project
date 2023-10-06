@@ -1,0 +1,15 @@
+#navitems{
+    color: white;
+    margin-left:15px;
+    margin-right: 15px;
+    font-weight: bolder;
+}
+#navitemss{
+    color: rgb(194, 22, 22);
+    font-weight: bolder;
+}
+#navitems:hover{
+    border-bottom: 5px solid rgb(194, 22, 22);
+    padding-bottom: 3px;
+    cursor:pointer;
+}
